@@ -10,3 +10,13 @@ performed well in classifying the images.
 the labels, whereas Logistic Regression took about an hour to train and predict the labels.
 3. Naïve Bayes classifier assumes all the dimensions as independent to one another which is not true.
 
+References
+[1] CS5841 - Machine learning by Dr. Timoty Havens, Lecture slides.
+[2] Lazy Programmers- Source of deep learning and Machine Learning.
+[3] K. Elissa, "Title of paper if known," unpublished.
+[4] Logistic Regression Overview Towards Data Science..
+[5] Pattern recognition and Machine Learning by Bishop.
+[6] DataCamp Ridge and Lasso Regularization.
+[7] Machine Learning Mastery - Naive Bayes.
+[8] Kaggle Logistic Regression without Scikit Learn.
+
